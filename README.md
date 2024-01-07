@@ -1,6 +1,6 @@
 # Prework - *ColorChanger*
 
-Submitted by: **Dawid Janoyan**
+Submitted by: **D J**
 
 **ColorChanger** is an app that changes the background color of the app through the click of a button.
 
@@ -35,7 +35,7 @@ I was initially having trouble with getting `Hello World` to show up before foll
 
 ## License
 
-    Copyright [2024] [Dawid Janoyan]
+    Copyright [2024] [D J]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
