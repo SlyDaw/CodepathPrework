@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  CodePath Prework
 //
-//  Created by Dawid Janoyan on 1/7/24.
+//  Created by D J on 1/7/24.
 //
 
 import UIKit
