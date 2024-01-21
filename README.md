@@ -13,6 +13,10 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough 
+
+![Jan-20-2024 23-35-07](https://github.com/SlyDaw/CodepathPrework/assets/90112418/209307dc-2b62-4863-8eb7-26fd6b953aa2)
+
 ## App Brainstorming (Step 4)
 
 - Snapchat
